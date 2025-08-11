@@ -1,4 +1,4 @@
-<header>
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/4610ceed-d679-4c8e-87e3-ae571d6f937f" /><header>
 
 # Hello GitHub Actions
 
@@ -8,7 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now added a fully functioning workflow to your repository! :smile:_
+_You've now added a fully functioning workflow to your repository! :smile:_ 🥇
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
